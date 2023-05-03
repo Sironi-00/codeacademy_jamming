@@ -1,9 +1,8 @@
 let userToken;
 let tokenExpire;
 
-const clientId = '78b9baf2a6314befbabf35a2ce9fff9e';
-// const redirectURL = 'http://localhost:3000/';
-const redirectURL = 'https://Sironi-00.github.io/codeacademy_jamming/';
+const clientId = '*********************';
+const redirectURL = 'http://localhost:3000/';
 
 
 const Spotify = {
